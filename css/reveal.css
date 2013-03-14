@@ -80,10 +80,10 @@ body {
 	word-wrap: break-word;
 }
 
-.reveal h1 { font-size: 3.77em; }
-.reveal h2 { font-size: 2.11em;	}
-.reveal h3 { font-size: 1.55em;	}
-.reveal h4 { font-size: 1em;	}
+.reveal h1 { font-size: 4.00em; }
+.reveal h2 { font-size: 2.8em;	}
+.reveal h3 { font-size: 1.9em;	}
+.reveal h4 { font-size: 1.5em;	}
 
 
 /*********************************************
@@ -235,6 +235,7 @@ body {
 .reveal p {
 	margin-bottom: 10px;
 	line-height: 1.2em;
+	font-size: 1.3em;
 }
 
 .reveal q,
@@ -281,7 +282,7 @@ body {
 	margin: 15px auto;
 
 	text-align: left;
-	font-size: 0.55em;
+	font-size: 0.9em;
 	font-family: monospace;
 	line-height: 1.2em;
 
